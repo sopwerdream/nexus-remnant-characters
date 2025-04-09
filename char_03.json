@@ -1,0 +1,55 @@
+{
+  "id": "char_03",
+  "name": "Riven Solan",
+  "rarity": "Legendary",
+  "rarity_color": "#ffaa00",
+  "class": "Healer",
+  "type": "Combat Unit",
+  "tags": [
+    "#Legendary",
+    "#Healer"
+  ],
+  "images": {
+    "preview": "https://.../char_03/preview.png",
+    "full": "https://.../char_03/full.png",
+    "chibi": "https://.../char_03/chibi.gif",
+    "skillIcon": "https://.../skill_char03.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char03.mp3",
+    "skill": "https://.../skill_char03.mp3",
+    "summon": "https://.../summon_char03.mp3"
+  },
+  "animations": {
+    "idle": "idle_char03.anim",
+    "attack": "attack_char03.anim",
+    "skill": "skill_char03.anim"
+  },
+  "status": {
+    "hp": 1506,
+    "atk": 580,
+    "def": 336,
+    "res": 262,
+    "spd": 105,
+    "range": 2,
+    "block": 3
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Riven Solan is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}

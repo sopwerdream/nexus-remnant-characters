@@ -1,0 +1,55 @@
+{
+  "id": "char_23",
+  "name": "Orin Vahl",
+  "rarity": "Legendary",
+  "rarity_color": "#ffaa00",
+  "class": "Healer",
+  "type": "Combat Unit",
+  "tags": [
+    "#Legendary",
+    "#Healer"
+  ],
+  "images": {
+    "preview": "https://.../char_23/preview.png",
+    "full": "https://.../char_23/full.png",
+    "chibi": "https://.../char_23/chibi.gif",
+    "skillIcon": "https://.../skill_char23.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char23.mp3",
+    "skill": "https://.../skill_char23.mp3",
+    "summon": "https://.../summon_char23.mp3"
+  },
+  "animations": {
+    "idle": "idle_char23.anim",
+    "attack": "attack_char23.anim",
+    "skill": "skill_char23.anim"
+  },
+  "status": {
+    "hp": 1779,
+    "atk": 397,
+    "def": 449,
+    "res": 289,
+    "spd": 83,
+    "range": 3,
+    "block": 1
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Orin Vahl is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}

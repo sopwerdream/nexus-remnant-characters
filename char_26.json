@@ -1,0 +1,55 @@
+{
+  "id": "char_26",
+  "name": "Tyran Vex",
+  "rarity": "Legendary",
+  "rarity_color": "#ffaa00",
+  "class": "Healer",
+  "type": "Combat Unit",
+  "tags": [
+    "#Legendary",
+    "#Healer"
+  ],
+  "images": {
+    "preview": "https://.../char_26/preview.png",
+    "full": "https://.../char_26/full.png",
+    "chibi": "https://.../char_26/chibi.gif",
+    "skillIcon": "https://.../skill_char26.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char26.mp3",
+    "skill": "https://.../skill_char26.mp3",
+    "summon": "https://.../summon_char26.mp3"
+  },
+  "animations": {
+    "idle": "idle_char26.anim",
+    "attack": "attack_char26.anim",
+    "skill": "skill_char26.anim"
+  },
+  "status": {
+    "hp": 1341,
+    "atk": 376,
+    "def": 497,
+    "res": 215,
+    "spd": 92,
+    "range": 4,
+    "block": 3
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Tyran Vex is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}

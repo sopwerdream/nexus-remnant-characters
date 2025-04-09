@@ -1,0 +1,55 @@
+{
+  "id": "char_25",
+  "name": "Vaelis Rhun",
+  "rarity": "Common",
+  "rarity_color": "#bbbbbb",
+  "class": "Defender",
+  "type": "Combat Unit",
+  "tags": [
+    "#Common",
+    "#Defender"
+  ],
+  "images": {
+    "preview": "https://.../char_25/preview.png",
+    "full": "https://.../char_25/full.png",
+    "chibi": "https://.../char_25/chibi.gif",
+    "skillIcon": "https://.../skill_char25.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char25.mp3",
+    "skill": "https://.../skill_char25.mp3",
+    "summon": "https://.../summon_char25.mp3"
+  },
+  "animations": {
+    "idle": "idle_char25.anim",
+    "attack": "attack_char25.anim",
+    "skill": "skill_char25.anim"
+  },
+  "status": {
+    "hp": 1960,
+    "atk": 346,
+    "def": 269,
+    "res": 106,
+    "spd": 92,
+    "range": 1,
+    "block": 2
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Vaelis Rhun is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}

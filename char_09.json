@@ -1,0 +1,55 @@
+{
+  "id": "char_09",
+  "name": "Corvin Dusk",
+  "rarity": "Epic",
+  "rarity_color": "#aa00ff",
+  "class": "Caster",
+  "type": "Combat Unit",
+  "tags": [
+    "#Epic",
+    "#Caster"
+  ],
+  "images": {
+    "preview": "https://.../char_09/preview.png",
+    "full": "https://.../char_09/full.png",
+    "chibi": "https://.../char_09/chibi.gif",
+    "skillIcon": "https://.../skill_char09.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char09.mp3",
+    "skill": "https://.../skill_char09.mp3",
+    "summon": "https://.../summon_char09.mp3"
+  },
+  "animations": {
+    "idle": "idle_char09.anim",
+    "attack": "attack_char09.anim",
+    "skill": "skill_char09.anim"
+  },
+  "status": {
+    "hp": 1091,
+    "atk": 593,
+    "def": 440,
+    "res": 109,
+    "spd": 81,
+    "range": 2,
+    "block": 2
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Corvin Dusk is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}
