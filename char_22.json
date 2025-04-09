@@ -1,0 +1,10 @@
+{
+  "id": "char_22",
+  "name": "Character 22",
+  "rarity": "Rare",
+  "rarity_color": "#00aaff",
+  "class": "Mage",
+  "images": {
+    "preview": "https://example.com/images/char_22.png"
+  }
+}

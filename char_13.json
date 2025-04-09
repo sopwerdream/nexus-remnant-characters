@@ -1,0 +1,10 @@
+{
+  "id": "char_13",
+  "name": "Character 13",
+  "rarity": "Rare",
+  "rarity_color": "#00aaff",
+  "class": "Warrior",
+  "images": {
+    "preview": "https://example.com/images/char_13.png"
+  }
+}
