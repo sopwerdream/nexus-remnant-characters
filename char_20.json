@@ -1,0 +1,55 @@
+{
+  "id": "char_20",
+  "name": "Draven Myr",
+  "rarity": "Epic",
+  "rarity_color": "#aa00ff",
+  "class": "Attacker",
+  "type": "Combat Unit",
+  "tags": [
+    "#Epic",
+    "#Attacker"
+  ],
+  "images": {
+    "preview": "https://.../char_20/preview.png",
+    "full": "https://.../char_20/full.png",
+    "chibi": "https://.../char_20/chibi.gif",
+    "skillIcon": "https://.../skill_char20.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char20.mp3",
+    "skill": "https://.../skill_char20.mp3",
+    "summon": "https://.../summon_char20.mp3"
+  },
+  "animations": {
+    "idle": "idle_char20.anim",
+    "attack": "attack_char20.anim",
+    "skill": "skill_char20.anim"
+  },
+  "status": {
+    "hp": 1914,
+    "atk": 361,
+    "def": 459,
+    "res": 116,
+    "spd": 97,
+    "range": 4,
+    "block": 3
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Draven Myr is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}

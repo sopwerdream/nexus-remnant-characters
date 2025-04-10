@@ -1,0 +1,55 @@
+{
+  "id": "char_14",
+  "name": "Nymra Jex",
+  "rarity": "Common",
+  "rarity_color": "#bbbbbb",
+  "class": "Caster",
+  "type": "Combat Unit",
+  "tags": [
+    "#Common",
+    "#Caster"
+  ],
+  "images": {
+    "preview": "https://.../char_14/preview.png",
+    "full": "https://.../char_14/full.png",
+    "chibi": "https://.../char_14/chibi.gif",
+    "skillIcon": "https://.../skill_char14.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char14.mp3",
+    "skill": "https://.../skill_char14.mp3",
+    "summon": "https://.../summon_char14.mp3"
+  },
+  "animations": {
+    "idle": "idle_char14.anim",
+    "attack": "attack_char14.anim",
+    "skill": "skill_char14.anim"
+  },
+  "status": {
+    "hp": 1459,
+    "atk": 407,
+    "def": 326,
+    "res": 175,
+    "spd": 96,
+    "range": 2,
+    "block": 3
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Nymra Jex is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}

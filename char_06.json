@@ -1,0 +1,55 @@
+{
+  "id": "char_06",
+  "name": "Alira Nox",
+  "rarity": "Rare",
+  "rarity_color": "#00aaff",
+  "class": "Support",
+  "type": "Combat Unit",
+  "tags": [
+    "#Rare",
+    "#Support"
+  ],
+  "images": {
+    "preview": "https://.../char_06/preview.png",
+    "full": "https://.../char_06/full.png",
+    "chibi": "https://.../char_06/chibi.gif",
+    "skillIcon": "https://.../skill_char06.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char06.mp3",
+    "skill": "https://.../skill_char06.mp3",
+    "summon": "https://.../summon_char06.mp3"
+  },
+  "animations": {
+    "idle": "idle_char06.anim",
+    "attack": "attack_char06.anim",
+    "skill": "skill_char06.anim"
+  },
+  "status": {
+    "hp": 1059,
+    "atk": 540,
+    "def": 446,
+    "res": 302,
+    "spd": 91,
+    "range": 1,
+    "block": 1
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Alira Nox is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}

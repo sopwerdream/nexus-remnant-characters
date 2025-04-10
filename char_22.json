@@ -1,0 +1,55 @@
+{
+  "id": "char_22",
+  "name": "Nareth Quel",
+  "rarity": "Common",
+  "rarity_color": "#bbbbbb",
+  "class": "Defender",
+  "type": "Combat Unit",
+  "tags": [
+    "#Common",
+    "#Defender"
+  ],
+  "images": {
+    "preview": "https://.../char_22/preview.png",
+    "full": "https://.../char_22/full.png",
+    "chibi": "https://.../char_22/chibi.gif",
+    "skillIcon": "https://.../skill_char22.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char22.mp3",
+    "skill": "https://.../skill_char22.mp3",
+    "summon": "https://.../summon_char22.mp3"
+  },
+  "animations": {
+    "idle": "idle_char22.anim",
+    "attack": "attack_char22.anim",
+    "skill": "skill_char22.anim"
+  },
+  "status": {
+    "hp": 1693,
+    "atk": 561,
+    "def": 335,
+    "res": 245,
+    "spd": 88,
+    "range": 3,
+    "block": 2
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Nareth Quel is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}

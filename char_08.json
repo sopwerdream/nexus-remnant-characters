@@ -1,0 +1,55 @@
+{
+  "id": "char_08",
+  "name": "Zephra Lunis",
+  "rarity": "Rare",
+  "rarity_color": "#00aaff",
+  "class": "Sniper",
+  "type": "Combat Unit",
+  "tags": [
+    "#Rare",
+    "#Sniper"
+  ],
+  "images": {
+    "preview": "https://.../char_08/preview.png",
+    "full": "https://.../char_08/full.png",
+    "chibi": "https://.../char_08/chibi.gif",
+    "skillIcon": "https://.../skill_char08.png"
+  },
+  "sounds": {
+    "voice": "https://.../voice_char08.mp3",
+    "skill": "https://.../skill_char08.mp3",
+    "summon": "https://.../summon_char08.mp3"
+  },
+  "animations": {
+    "idle": "idle_char08.anim",
+    "attack": "attack_char08.anim",
+    "skill": "skill_char08.anim"
+  },
+  "status": {
+    "hp": 1989,
+    "atk": 437,
+    "def": 479,
+    "res": 295,
+    "spd": 85,
+    "range": 1,
+    "block": 3
+  },
+  "abilities": {
+    "passive": "Random passive effect",
+    "active": "Random active skill effect",
+    "ultimate": "Random ultimate ability"
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Path A",
+      "bonus": "+20% Damage",
+      "unlock_skill": "Skill A"
+    },
+    "pathB": {
+      "title": "Path B",
+      "bonus": "+25% Defense",
+      "unlock_skill": "Skill B"
+    }
+  },
+  "lore": "Zephra Lunis is a mysterious warrior of the Nexus Realm, forged through battles and shadow."
+}
